@@ -1,6 +1,6 @@
-# Treinamento-Rede-Yolo
+# Treinamento de Rede Yolo
 
-# YOLOv8 + Roboflow: Treinamento e Inferência em Google Colab
+## YOLOv8 + Roboflow: Treinamento e Inferência em Google Colab
 
 Este projeto demonstra como:
 
@@ -90,7 +90,7 @@ mostrar('predictions.jpg')
 ```
 
 > Após o upload, a imagem será processada e os resultados serão exibidos com detecções visuais.
-### Exemplo de Resultado
+### Exemplo de Resultado:
 
 ![image](https://github.com/user-attachments/assets/c43fa02c-98fd-4c8a-a7bc-1b998ee4b865)
 
@@ -103,5 +103,3 @@ mostrar('predictions.jpg')
 * Os resultados da inferência são salvos em `predictions.jpg`.
 
 ---
-
-Se quiser, posso gerar esse `README.md` como arquivo para download. Deseja isso?
